@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on paper " Impact of High Frequency Trading on Liquidity of INR/USD ETF<br>I'm interested in projects in Macroeconomics, Quantitative Finance and Algorithmic Trading<br>I love to explore and analyze economic data to uncover insights and trends<br>If you are interested in collaborating on projects related to macroeconomics and quantitative finance, or simply want to connect with others who share similar interests, I would love to hear from you! Let's work together to explore the exciting world of data-driven economic analysis.
+I'm working on paper " Impact of High Frequency Trading on Liquidity of INR/USD ETF<br>I'm interested in projects in Macroeconomics, Quantitative Finance, Risk Management and Algorithmic Trading<br>I love to explore and analyze economic data to uncover insights and trends<br>If you are interested in collaborating on projects related to macroeconomics and quantitative finance, or simply want to connect with others who share similar interests, I would love to hear from you! Let's work together to explore the exciting world of data-driven economic analysis.
 
 
 
