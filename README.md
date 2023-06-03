@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm working on paper " Impact of High Frequency Trading on Liquidity of INR/USD ETF<br>I'm interested in projects in Macroeconomics, Quantitative Finance, Risk Management and Algorithmic Trading<br>I love to explore and analyze economic data to uncover insights and trends<br>If you are interested in collaborating on projects related to macroeconomics and quantitative finance, or simply want to connect with others who share similar interests, I would love to hear from you! Let's work together to explore the exciting world of data-driven economic analysis.
+Hello! I'm an Authorised Officer currently working at UBS in the Global Risk Methodology team. With a passion for the fusion of finance and data science, my primary professional focus lies in the domain of Quantitative Financial Risk Models and Financial Mathematics.
+
+In my current role at UBS, I'm deeply involved in the development and validation of financial risk models, ensuring the smooth operation of the financial systems in line with the stringent global financial regulations. I specialize in the areas of credit risk, market risk, and operational risk, and consistently strive to leverage my mathematical and programming skills to devise solutions that enhance the precision and efficiency of risk management strategies.
+
+With an academic background in Finance and Mathematics, I have always been intrigued by the complexities of financial markets and the ways in which mathematical models can be used to understand, predict and manage financial risks. My strong suit lies in the design, testing, and implementation of mathematical models aimed at predicting financial market trends, measuring risks, and making investment decisions.
+
+In addition to my professional commitments, I invest time in staying ahead of the curve in the ever-evolving financial landscape by continuously updating my knowledge about financial instruments, derivative pricing, and statistical methodologies used in risk management. I also dedicate myself to understanding the new regulations, methodologies, and best practices in risk management.
+
+I’m always eager to connect with like-minded professionals and passionate about contributing to open-source projects, particularly those at the intersection of finance, mathematics, and data science.
+
+As a lifelong learner, I'm not only fascinated by the potential of data in shaping the future of the financial world, but also driven by the desire to disseminate knowledge. I find it deeply rewarding to share my insights and learnings through my work on Github, where I'm actively involved in various data science and risk modelling projects.
+
+Feel free to explore my repositories to understand the depth of my work, or reach out if you'd like to collaborate on a project or discuss the intriguing world of quantitative finance and risk modeling.
 
 
 
