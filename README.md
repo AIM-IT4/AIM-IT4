@@ -1,18 +1,14 @@
 # 💫 About Me:
-Hello! I'm an Authorised Officer currently working at UBS in the Global Risk Methodology team. With a passion for the fusion of finance and data science, my primary professional focus lies in the domain of Quantitative Financial Risk Models and Financial Mathematics.
-
-In my current role at UBS, I'm deeply involved in the development and validation of financial risk models, ensuring the smooth operation of the financial systems in line with the stringent global financial regulations. I specialize in the areas of credit risk, market risk, and operational risk, and consistently strive to leverage my mathematical and programming skills to devise solutions that enhance the precision and efficiency of risk management strategies.
-
-With an academic background in Finance and Mathematics, I have always been intrigued by the complexities of financial markets and the ways in which mathematical models can be used to understand, predict and manage financial risks. My strong suit lies in the design, testing, and implementation of mathematical models aimed at predicting financial market trends, measuring risks, and making investment decisions.
-
-In addition to my professional commitments, I invest time in staying ahead of the curve in the ever-evolving financial landscape by continuously updating my knowledge about financial instruments, derivative pricing, and statistical methodologies used in risk management. I also dedicate myself to understanding the new regulations, methodologies, and best practices in risk management.
-
-I’m always eager to connect with like-minded professionals and passionate about contributing to open-source projects, particularly those at the intersection of finance, mathematics, and data science.
-
-As a lifelong learner, I'm not only fascinated by the potential of data in shaping the future of the financial world, but also driven by the desire to disseminate knowledge. I find it deeply rewarding to share my insights and learnings through my work on Github, where I'm actively involved in various data science and risk modelling projects.
-
-Feel free to explore my repositories to understand the depth of my work, or reach out if you'd like to collaborate on a project or discuss the intriguing world of quantitative finance and risk modeling.
-
+Authorised Officer at UBS, working in the Global Risk Methodology team.
+Specializes in Quantitative Financial Risk Models and Financial Mathematics.
+In-depth experience with credit risk, market risk, and operational risk.
+Utilizes mathematical and programming skills to enhance risk management strategies.
+Academically grounded in Finance and Mathematics, with a keen interest in the complexities of financial markets.
+Proficient in design, testing, and implementation of mathematical models for financial market trends and risk measurement.
+Continually up-to-date with financial instruments, derivative pricing, and statistical methodologies in risk management.
+Passionate about contributing to open-source projects, especially those intersecting finance, mathematics, and data science.
+Active Github contributor, involved in various data science and risk modelling projects.
+Open for collaboration and discussion around quantitative finance and risk modeling.
 
 
 ## 🌐 Socials:
