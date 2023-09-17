@@ -1,5 +1,6 @@
 # 💫 About Me:
-Authorised Officer at UBS, working in the Global Risk Methodology team.
+Authorised Officer at UBS, working in the Quantitative Risk Modelling team.
+
 Specializes in Quantitative Financial Risk Models and Financial Mathematics.
 In-depth experience with credit risk, market risk, and operational risk.
 Utilizes mathematical and programming skills to enhance risk management strategies.
