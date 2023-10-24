@@ -13,6 +13,8 @@ Open for collaboration and discussion around quantitative finance and risk model
 
 I am currently developing clear R package for pricing various types of custom derivatives https://cran.r-project.org/web/packages/CustomDerivative/index.html
 
+I have published a research on newly developed risk measures known as "DCUS": Read more - https://arxiv.org/abs/2310.14604
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello_mr.jha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akjha002) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Akjha22) 
