@@ -13,7 +13,7 @@ Open for collaboration and discussion around quantitative finance and risk model
 
 I am currently developing clear R package for pricing various types of custom derivatives https://cran.r-project.org/web/packages/CustomDerivative/index.html
 
-I have published a research on newly developed risk measures known as "DCUS": Read more - https://arxiv.org/abs/2310.14604
+I have published a research on newly developed risk measures known as "TVaRD": Read more - https://arxiv.org/abs/2310.14604
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-var-and-cvar-topological-risk-measures/topological-risk-measure-on-finance)](https://paperswithcode.com/sota/topological-risk-measure-on-finance?p=beyond-var-and-cvar-topological-risk-measures)
 
 ## 🌐 Socials:
