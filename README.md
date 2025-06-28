@@ -1,32 +1,142 @@
-# 💫 About Me:
-Authorised Officer at UBS, working in the Quantitative Risk Modelling team.
+# Quantitative Risk Analyst & Financial Engineer
 
-Specializes in Quantitative Financial Risk Models and Financial Mathematics.
-In-depth experience with credit risk, market risk, and operational risk.
-Utilizes mathematical and programming skills to enhance risk management strategies.
-Academically grounded in Finance and Mathematics, with a keen interest in the complexities of financial markets.
-Proficient in design, testing, and implementation of mathematical models for financial market trends and risk measurement.
-Continually up-to-date with financial instruments, derivative pricing, and statistical methodologies in risk management.
-Passionate about contributing to open-source projects, especially those intersecting finance, mathematics, and data science.
-Active Github contributor, involved in various data science and risk modelling projects.
-Open for collaboration and discussion around quantitative finance and risk modeling.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Akjha002)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat&logo=medium)](https://medium.com/@Akjha22)
+[![CRAN Package](https://img.shields.io/badge/CRAN-CustomDerivative-brightgreen?style=flat&logo=r)](https://cran.r-project.org/web/packages/CustomDerivative/index.html)
+[![arXiv](https://img.shields.io/badge/arXiv-Research-red?style=flat&logo=arxiv)](https://arxiv.org/abs/2310.14604)
 
-I am currently developing clear R package for pricing various types of custom derivatives https://cran.r-project.org/web/packages/CustomDerivative/index.html
+## Professional Summary
 
-I have published a research on newly developed risk measures known as "TVaRD": Read more - https://arxiv.org/abs/2310.14604
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-var-and-cvar-topological-risk-measures/topological-risk-measure-on-finance)](https://paperswithcode.com/sota/topological-risk-measure-on-finance?p=beyond-var-and-cvar-topological-risk-measures)
+**Authorized Officer** at **UBS** | Quantitative Risk Modelling Team
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello_mr.jha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akjha002) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Akjha22) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AIM-IT4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AIM-IT4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Specialized in developing and implementing sophisticated mathematical models for financial risk management, with extensive expertise across credit risk, market risk, and operational risk frameworks. Passionate about advancing quantitative finance through research, open-source contributions, and innovative risk measurement methodologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AIM-IT4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔬 Research & Publications
+
+### Featured Research: TVaRD Risk Measures
+**"Beyond VaR and CVaR: Topological Risk Measures"** | [arXiv:2310.14604](https://arxiv.org/abs/2310.14604)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-var-and-cvar-topological-risk-measures/topological-risk-measure-on-finance)](https://paperswithcode.com/sota/topological-risk-measure-on-finance?p=beyond-var-and-cvar-topological-risk-measures)
+
+Introduced novel topological risk measures (TVaRD) that extend traditional Value-at-Risk frameworks, providing enhanced risk assessment capabilities for complex financial portfolios.
+
+---
+
+## 📦 Open Source Contributions
+
+### CustomDerivative R Package
+[![CRAN Version](https://www.r-pkg.org/badges/version/CustomDerivative)](https://cran.r-project.org/package=CustomDerivative)
+[![Downloads](https://cranlogs.r-pkg.org/badges/CustomDerivative)](https://cran.r-project.org/package=CustomDerivative)
+
+A comprehensive R package for pricing various types of custom derivatives, enabling practitioners to implement sophisticated derivative pricing models with ease.
+
+**Key Features:**
+- Multi-asset derivative pricing engines
+- Exotic option valuation models
+- Risk-neutral probability frameworks
+- Monte Carlo simulation capabilities
+
+---
+
+## 💼 Core Competencies
+
+**Risk Management**
+- Credit Risk Modeling & Validation
+- Market Risk Analytics & VaR Models
+- Operational Risk Quantification
+- Regulatory Capital Frameworks (Basel III/IV)
+
+**Quantitative Finance**
+- Derivative Pricing & Hedging Strategies
+- Portfolio Optimization & Asset Allocation
+- Financial Mathematics & Stochastic Calculus
+- Statistical Modeling & Econometrics
+
+**Technology & Implementation**
+- High-Performance Computing in Finance
+- Risk Model Development & Backtesting
+- Financial Data Engineering
+- Regulatory Reporting & Compliance
+
+---
+
+## 🛠️ Technical Stack
+
+**Programming Languages**
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Expert-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Financial & Analytics**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIM-IT4&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### Repository Insights
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIM-IT4&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+---
+
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIM-IT4&theme=github-compact&hide_border=true)
+
+---
+
+## 🎯 Current Focus
+
+- **Risk Model Innovation**: Developing next-generation risk measurement frameworks
+- **Open Source**: Contributing to quantitative finance and risk management libraries
+- **Research**: Advancing topological approaches in financial risk assessment
+- **Industry Collaboration**: Bridging academic research with practical implementation
+
+---
+
+## 📞 Professional Contact
+
+- **LinkedIn**: [Connect for professional discussions](https://linkedin.com/in/Akjha002)
+- **Research**: [Follow on Medium](https://medium.com/@Akjha22) for insights on quantitative finance
+- **Collaboration**: Open to partnerships in quantitative finance and risk modeling
+
+---
+
+<div align="center">
+
+**"Quantifying uncertainty to enable informed financial decisions"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=AIM-IT4&style=flat&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/AIM-IT4?style=flat&logo=github)](https://github.com/AIM-IT4)
+
+</div>
+
+---
+
+*Last updated: ![Dynamic Date](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAIM-IT4%2FAIM-IT4%2Fcommits%2Fmain&logo=github&style=flat)*
