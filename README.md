@@ -1,87 +1,60 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/quant-ledger.svg" alt="Amit Kumar Jha — Quantitative risk, financial engineering and open research" width="100%" />
+</p>
 
-# Amit Kumar Jha
-
-### Quantitative Risk Analyst · Financial Engineer · Open-Source Researcher
-
-*Building rigorous models for uncertainty, one assumption at a time.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akjha002)
-[![Research](https://img.shields.io/badge/arXiv-2310.14604-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2310.14604)
-[![Website](https://img.shields.io/badge/Field_notes-aim--it4.github.io-1B1F23?style=flat-square&logo=githubpages&logoColor=white)](https://aim-it4.github.io)
-
-</div>
-
----
-
-```text
-ROLE        Quantitative Risk Analyst at UBS, Mumbai
-TRAINING    M.S., IIT Jodhpur
-QUESTION    How can mathematical structure make risk more intelligible?
-METHOD      Research → prototype → validate → share
-```
-
-## Research ledger
-
-| Thread | What I am exploring | Evidence |
-| --- | --- | --- |
-| **Risk beyond thresholds** | Topological approaches to measuring tail risk and portfolio structure | [Beyond VaR and CVaR: Topological Risk Measures](https://arxiv.org/abs/2310.14604) |
-| **Pricing in practice** | Transparent, reusable tools for custom and exotic derivatives | [CustomDerivative](https://cran.r-project.org/package=CustomDerivative) |
-| **Models that teach** | Implementations that turn financial mathematics into working intuition | [QuantitativeDerivativeModels](https://github.com/AIM-IT4/QuantitativeDerivativeModels) |
-
-## The workbench
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Risk systems</h3>
-      <p>Credit and market risk · model validation · VaR and stress testing · regulatory capital</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Financial engineering</h3>
-      <p>Derivatives pricing · stochastic calculus · portfolio analytics · Monte Carlo simulation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Computational tools</h3>
-      <p>Python · R · C++ · SQL · NumPy · pandas · SciPy · scikit-learn</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>From research to production</h3>
-      <p>Backtesting · data engineering · high-performance computing · Docker · FastAPI</p>
-    </td>
-  </tr>
-</table>
-
-## Selected notebooks & engines
-
-<a href="https://github.com/AIM-IT4/QuantitativeDerivativeModels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=QuantitativeDerivativeModels&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/AIM-IT4/StochasticModelsAssetPricing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=StochasticModelsAssetPricing&theme=transparent&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akjha002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arxiv.org/abs/2310.14604"><img src="https://img.shields.io/badge/Read_the_paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read the TVaRD paper on arXiv" /></a>
+  <a href="https://aim-it4.github.io"><img src="https://img.shields.io/badge/Field_notes-161B22?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal website" /></a>
+</p>
 
 <br />
 
-<a href="https://github.com/AIM-IT4/InterestRateModelsCpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=InterestRateModelsCpp&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/AIM-IT4/MonteCarlo-MeanReversionTrading">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=MonteCarlo-MeanReversionTrading&theme=transparent&hide_border=true" />
-</a>
+## `01 / WHY I BUILD`
 
-## Now
+I work at the boundary of **mathematics, market risk, and software**. At UBS in Mumbai, I contribute to quantitative risk modelling; in public, I turn financial ideas into reusable models, research, and teaching code.
 
-> **Current direction:** designing better risk measures, building reproducible quantitative tools, and connecting academic ideas with decisions that matter.
+> **Principle:** uncertainty cannot be removed—only measured, explained, and acted on with more clarity.
 
-I enjoy thoughtful conversations on quantitative risk, derivatives, mathematical finance, and open-source research. The best place to start is [LinkedIn](https://www.linkedin.com/in/akjha002).
+## `02 / PROOF OF WORK`
 
----
+| Research | Open source | Engineering |
+| :--- | :--- | :--- |
+| **TVaRD risk measures**<br />[Beyond VaR and CVaR](https://arxiv.org/abs/2310.14604)—a topological lens for tail risk. | **[CustomDerivative](https://cran.r-project.org/package=CustomDerivative)**<br />An R package for custom and exotic derivative pricing. | **127 public repositories**<br />Python, R, C++, and notebooks spanning risk, pricing, and markets. |
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/AIM-IT4/QuantitativeDerivativeModels"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=QuantitativeDerivativeModels&theme=transparent&hide_border=true" alt="Quantitative Derivative Models repository" /></a>
+  <a href="https://github.com/AIM-IT4/StochasticModelsAssetPricing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=StochasticModelsAssetPricing&theme=transparent&hide_border=true" alt="Stochastic Models Asset Pricing repository" /></a>
+</p>
 
-<sub>Quantifying uncertainty so decisions can be made with clarity.</sub>
+<p align="center">
+  <a href="https://github.com/AIM-IT4/InterestRateModelsCpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=InterestRateModelsCpp&theme=transparent&hide_border=true" alt="Interest Rate Models C++ repository" /></a>
+  <a href="https://github.com/AIM-IT4/MonteCarlo-MeanReversionTrading"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AIM-IT4&repo=MonteCarlo-MeanReversionTrading&theme=transparent&hide_border=true" alt="Monte Carlo Mean Reversion Trading repository" /></a>
+</p>
 
-</div>
+## `03 / OPEN-SOURCE SIGNAL`
+
+<p align="center">
+  <img src="./assets/oss-signal.svg" alt="208 followers, 71 stars, Pull Shark and Starstruck GitHub achievements" width="100%" />
+</p>
+
+I treat every repository as an invitation to inspect the assumptions. Contributions, review, and pull requests are part of the craft—not an afterthought.
+
+- [Explore my repositories](https://github.com/AIM-IT4?tab=repositories)
+- [See pull requests and discussions](https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4)
+- [Follow the research trail on arXiv](https://arxiv.org/abs/2310.14604)
+
+## `04 / THE WORKBENCH`
+
+```text
+RISK              Credit risk · Market risk · VaR · Stress testing · Model validation
+FINANCE           Derivatives · Stochastic calculus · Portfolio analytics · Monte Carlo
+BUILD             Python · R · C++ · SQL · NumPy · pandas · SciPy · scikit-learn
+SHIP              Backtesting · Data engineering · Docker · FastAPI · Reproducible research
+```
+
+## `05 / NOW`
+
+Exploring risk measurement beyond conventional thresholds, better research-to-production workflows, and quantitative tools that make hard concepts usable.
+
+<p align="center"><sub>Built from models. Tested against uncertainty.</sub></p>
