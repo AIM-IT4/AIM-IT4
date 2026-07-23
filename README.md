@@ -12,7 +12,7 @@
 [![XVA Engine Stars](https://img.shields.io/github/stars/AIM-IT4/Advanced-XVA-Framework?style=flat-square&logo=github&color=eac54f&label=XVA%20Engine%20Stars)](https://github.com/AIM-IT4/Advanced-XVA-Framework)
 
 > **Quantitative Analyst (Authorized Officer) @ UBS** | **Ex-Reserve Bank of India** | **Founder @ [Desk2Quant](https://desk2quant.vercel.app)**  
-> *Front-Office XVA & Risk Quant • Top 1% Topmate Creator (1,460+ Mentorship Sessions) • Derivatives Pricing • Stochastic Calculus*
+> *Front-Office XVA & Risk Quant • Top 1% Topmate Creator (1,460+ Sessions) • Derivatives Pricing • Stochastic Calculus • Deep BSDEs*
 
 ---
 
@@ -23,12 +23,16 @@
 * 🏦 **Quant @ UBS (Mumbai)**: 3+ years optimizing counterparty credit risk (CCR) models, exposure profiling (PFE/EPE/EE), Repo VaR IMA regulatory frameworks, and risk factor backtesting across Equities, FX, Rates, and Credit.
 * 🏛️ **Ex-Research Analyst @ Reserve Bank of India**: Modeled market microstructure inefficiencies on **3 TB+ tick data** for central bank policy research and intraday signal analysis.
 * 🎓 **Academic Excellence**: M.Sc. in Digital Humanities (*Computational Economics & Quantitative Finance Track*) from **IIT Jodhpur** (CGPA 8.8/10, GATE AIR 180) & B.Sc. (Hons.) in Physics from **Jamia Millia Islamia** (CGPA 8.5/10, IIT JAM AIR 1160).
-* 🔬 **Published Researcher**: Author of preprints on market microstructure via stochastic thermodynamics ([arXiv:2512.03123](https://arxiv.org/abs/2512.03123)), short-rate dynamics ([arXiv:2506.06317](https://arxiv.org/abs/2506.06317)), and SSRN banking economometrics.
+* 🔬 **Published Researcher**: Author of preprints on market microstructure via stochastic thermodynamics ([arXiv:2512.03123](https://arxiv.org/abs/2512.03123)), short-rate dynamics ([arXiv:2506.06317](https://arxiv.org/abs/2506.06317)), and SSRN banking econometrics.
 * 🛠️ **Engineering & Tooling**: Production Python, C++, kdb+/Q, R (CRAN Package Author), Databricks/Spark processing 1B+ rows, and AST/LLM Developer Productivity agents.
 
 ---
 
-### 🚀 Featured Platforms & Projects
+### 🚀 Featured Platforms & Novel Quant Projects
+
+#### ⚡ [Thermodynamic-BSDE-XVA-Engine](https://github.com/AIM-IT4/Thermodynamic_BSDE_XVA_Engine) *(New Novel Project)*
+* **Tech:** Python, PyTorch, SciPy, NumPy, Matplotlib
+* **Mathematical Novelty:** Solves high-dimensional nonlinear Backward Stochastic Differential Equations (BSDEs) for **CVA, DVA, FVA, MVA, KVA** under collateralized netting. Integrates **stochastic thermodynamics entropy production** to verify no-arbitrage bounds and performs **KL-divergence optimal transport volatility surface repair**.
 
 #### 🌐 [Desk2Quant — Quantitative Finance & Mentorship Platform](https://desk2quant.vercel.app) *(Founder & Architect)*
 * **Live App:** [desk2quant.vercel.app](https://desk2quant.vercel.app) | **Mentorship:** [topmate.io/amit_kumar_jha](https://topmate.io/amit_kumar_jha)
@@ -37,7 +41,7 @@
 
 #### 📊 [Advanced-XVA-Framework](https://github.com/AIM-IT4/Advanced-XVA-Framework)
 * **Tech:** Python, QuantLib, NumPy, SciPy
-* Comprehensive valuation engine for **CVA, DVA, FVA, MVA, KVA**, XVA Sensitivity Greeks, and Wrong-Way Risk (WWR) under Monte Carlo simulation. Includes collateralized exposure profiling and netting set dynamics.
+* Comprehensive valuation engine for CVA, DVA, FVA, MVA, KVA, XVA Sensitivity Greeks, and Wrong-Way Risk (WWR) under Monte Carlo simulation. Includes collateralized exposure profiling and netting set dynamics.
 
 #### 📦 [CustomDerivative](https://github.com/AIM-IT4/CustomDerivative) *(CRAN Package)*
 * **Tech:** R, CRAN, C++
@@ -66,13 +70,13 @@
 │ Category                     │ Tools & Frameworks                                          │
 ├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
 │ Quantitative Finance         │ CVA/DVA/FVA/MVA/KVA, PFE/EPE/EE, SA-CCR, Repo VaR IMA,       │
-│                              │ ISDA SIMM, Wrong-Way Risk, Monte Carlo, PDEs, Vol Surface   │
+│                              │ ISDA SIMM, Wrong-Way Risk, Monte Carlo, Deep BSDEs, PDEs    │
 ├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
 │ Programming Languages        │ Python, C++, R, kdb+/Q, SQL, LaTeX, Bash                    │
 ├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
 │ Mentorship & Mentorship Stack│ Topmate (Top 1% Creator, 1,460+ Sessions), Desk2Quant Platform│
 ├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ Libraries & Engines          │ QuantLib, PySpark, NumPy, SciPy, Pandas, Numba, Databricks  │
+│ Libraries & Engines          │ PyTorch, QuantLib, PySpark, NumPy, SciPy, Pandas, Numba     │
 └──────────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
 
