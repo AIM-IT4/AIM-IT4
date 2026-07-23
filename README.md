@@ -1,142 +1,92 @@
-# Quantitative Risk Analyst & Financial Engineer
+# Hi there, I'm Amit Kumar Jha 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Akjha002)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat&logo=medium)](https://medium.com/@Akjha22)
-[![CRAN Package](https://img.shields.io/badge/CRAN-CustomDerivative-brightgreen?style=flat&logo=r)](https://cran.r-project.org/web/packages/CustomDerivative/index.html)
-[![arXiv](https://img.shields.io/badge/arXiv-Research-red?style=flat&logo=arxiv)](https://arxiv.org/abs/2310.14604)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akjha002-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akjha002)
+[![Email](https://img.shields.io/badge/Email-jha.8%40alumni.iitj.ac.in-D14836?style=flat-square&logo=gmail)](mailto:jha.8@alumni.iitj.ac.in)
+[![arXiv](https://img.shields.io/badge/arXiv-Author_Page-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.03123)
+[![CRAN](https://img.shields.io/badge/CRAN-CustomDerivative-276DC3?style=flat-square&logo=r)](https://www.rdocumentation.org/packages/CustomDerivative/versions/0.1.1)
+[![Location](https://img.shields.io/badge/Location-Mumbai%2C_India-107C41?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Mumbai,India)
 
-## Professional Summary
+[![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active_Contributor-a855f7?style=flat-square&logo=git-pull-request)](https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4)
+[![GitHub Followers](https://img.shields.io/github/followers/AIM-IT4?style=flat-square&logo=github&color=2bbc8a&label=GitHub%20Followers)](https://github.com/AIM-IT4?tab=followers)
+[![XVA Engine Stars](https://img.shields.io/github/stars/AIM-IT4/Advanced-XVA-Framework?style=flat-square&logo=github&color=eac54f&label=XVA%20Engine%20Stars)](https://github.com/AIM-IT4/Advanced-XVA-Framework)
+[![StochPathSim Stars](https://img.shields.io/github/stars/AIM-IT4/StochPathSim?style=flat-square&logo=github&color=eac54f&label=StochPathSim%20Stars)](https://github.com/AIM-IT4/StochPathSim)
 
-**Authorized Officer** at **UBS** | Quantitative Risk Modelling Team
-
-Specialized in developing and implementing sophisticated mathematical models for financial risk management, with extensive expertise across credit risk, market risk, and operational risk frameworks. Passionate about advancing quantitative finance through research, open-source contributions, and innovative risk measurement methodologies.
-
----
-
-## 🔬 Research & Publications
-
-### Featured Research: TVaRD Risk Measures
-**"Beyond VaR and CVaR: Topological Risk Measures"** | [arXiv:2310.14604](https://arxiv.org/abs/2310.14604)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-var-and-cvar-topological-risk-measures/topological-risk-measure-on-finance)](https://paperswithcode.com/sota/topological-risk-measure-on-finance?p=beyond-var-and-cvar-topological-risk-measures)
-
-Introduced novel topological risk measures (TVaRD) that extend traditional Value-at-Risk frameworks, providing enhanced risk assessment capabilities for complex financial portfolios.
+> **Quantitative Analyst (Authorized Officer) @ UBS** | **Front Office XVA & Risk Quant Specialist**  
+> *Quantitative Finance • Derivatives Pricing • Counterparty Credit Risk (PFE/EPE) • Stochastic Calculus • Market Microstructure*
 
 ---
 
-## 📦 Open Source Contributions
+### 👨‍💻 About Me
 
-### CustomDerivative R Package
-[![CRAN Version](https://www.r-pkg.org/badges/version/CustomDerivative)](https://cran.r-project.org/package=CustomDerivative)
-[![Downloads](https://cranlogs.r-pkg.org/badges/CustomDerivative)](https://cran.r-project.org/package=CustomDerivative)
-
-A comprehensive R package for pricing various types of custom derivatives, enabling practitioners to implement sophisticated derivative pricing models with ease.
-
-**Key Features:**
-- Multi-asset derivative pricing engines
-- Exotic option valuation models
-- Risk-neutral probability frameworks
-- Monte Carlo simulation capabilities
+* 🏦 **Quant @ UBS (Mumbai)**: 3+ years optimizing counterparty credit risk (CCR) models, exposure profiling (PFE/EPE/EE), Repo VaR IMA regulatory frameworks, and risk factor backtesting across Equities, FX, Rates, and Credit.
+* 🎓 **Academic Rigor**: M.Sc. in Digital Humanities (*Computational Economics & Quantitative Finance Track*) from **IIT Jodhpur** (CGPA 8.8/10, GATE AIR 180) & B.Sc. (Hons.) in Physics from **Jamia Millia Islamia** (CGPA 8.5/10, IIT JAM AIR 1160).
+* 🔬 **Published Researcher**: Author of papers in market microstructure using stochastic thermodynamics, short-rate term structure modeling (Sinusoidal Hull-White), and banking asset econometrics (SSRN).
+* 🔀 **Pull Requests & Code Reviews**: Built AST & LLM Quant assistants ("CodeNarrator"), driving automated Gitlab & GitHub PR review agents across 50+ developers, cutting workflow turnaround by 40%.
+* 🛠️ **Engineering & Analytics**: Production Python, C++, kdb+/Q, R (CRAN Package Author), Databricks/Spark processing 1B+ rows.
 
 ---
 
-## 💼 Core Competencies
+### 🔬 Publications & Working Papers
 
-**Risk Management**
-- Credit Risk Modeling & Validation
-- Market Risk Analytics & VaR Models
-- Operational Risk Quantification
-- Regulatory Capital Frameworks (Basel III/IV)
-
-**Quantitative Finance**
-- Derivative Pricing & Hedging Strategies
-- Portfolio Optimization & Asset Allocation
-- Financial Mathematics & Stochastic Calculus
-- Statistical Modeling & Econometrics
-
-**Technology & Implementation**
-- High-Performance Computing in Finance
-- Risk Model Development & Backtesting
-- Financial Data Engineering
-- Regulatory Reporting & Compliance
+| Title | Track / Venue | Abstract / Link |
+| :--- | :--- | :--- |
+| **A Stochastic Thermodynamics Approach to Price Impact and Arbitrage** | Market Microstructure | [arXiv:2512.03123](https://arxiv.org/abs/2512.03123) — *Physics-based framework for market microstructure using entropy production and fluctuation theorems.* |
+| **A Sinusoidal Hull-White Model for Interest Rate Dynamics** | Interest Rate Modeling | [arXiv:2506.06317](https://arxiv.org/abs/2506.06317) — *Extended Hull-White model with sinusoidal mean-reversion, calibrated to 30 years of US Treasury data.* |
+| **Digitization Impact on Indian Banking Assets (2009-19)** | Computational Econometrics | [SSRN: 4164875](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4164875) — *Fixed-effects panel regression & Lerner index estimation on 90% of Indian banking assets.* |
 
 ---
 
-## 🛠️ Technical Stack
+### 🚀 Featured Repositories & Implementations
 
-**Programming Languages**
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Expert-276DC3?style=flat&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white)
+#### 📊 [Advanced-XVA-Framework](https://github.com/AIM-IT4/Advanced-XVA-Framework)
+* **Tech:** Python, QuantLib, NumPy, SciPy
+* Comprehensive valuation engine for **CVA, DVA, FVA, MVA, KVA**, XVA Sensitivity Greeks, and Wrong-Way Risk (WWR) under Monte Carlo simulation. Includes collateralized exposure profiling and netting set dynamics.
 
-**Financial & Analytics**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+#### 📦 [CustomDerivative](https://github.com/AIM-IT4/CustomDerivative) *(CRAN Package)*
+* **Tech:** R, CRAN, C++
+* Production-grade R package on **CRAN** for pricing exotic derivatives. Implements 15+ numerical methods, Monte Carlo path generation, and finite-difference PDE schemes.
 
-**Infrastructure & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+#### ⚡ [KDB Market Microstructure Study](https://github.com/AIM-IT4/KDB-Market-Microstructure-Study---Billion-Quote-Analysis)
+* **Tech:** Q/kdb+, Tick Architecture
+* Ultra-low-latency tick data engine analyzing **10M+ quotes/trades**. Calculates intraday bid-ask spread dynamics, market maker inventory risk, and high-frequency order flow imbalance.
+
+#### 📈 [StochPathSim](https://github.com/AIM-IT4/StochPathSim)
+* **Tech:** Python, Numba, Vectorized Math
+* High-performance stochastic process path simulation framework supporting **Heston, SABR, Merton Jump-Diffusion, Vasicek, and Hull-White** models with variance reduction techniques.
 
 ---
 
-## 📈 GitHub Analytics
+### 🛠️ Technical Stack & Domain Expertise
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIM-IT4&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### Repository Insights
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIM-IT4&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
----
-
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIM-IT4&theme=github-compact&hide_border=true)
+```
+┌──────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Category                     │ Tools & Frameworks                                          │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Quantitative Finance         │ CVA/DVA/FVA/MVA/KVA, PFE/EPE/EE, SA-CCR, Repo VaR IMA,       │
+│                              │ ISDA SIMM, Wrong-Way Risk, Monte Carlo, PDEs, Vol Surface   │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Programming Languages        │ Python, C++, R, kdb+/Q, SQL, LaTeX, Bash                    │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Libraries & Engines          │ QuantLib, PySpark, NumPy, SciPy, Pandas, Numba, Databricks  │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Regulations & Risk           │ Basel III, FRTB, Model Risk Management (MRMC), Stress Tests │
+└──────────────────────────────┴─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🎯 Current Focus
+### 📊 GitHub Activity & Contributions
 
-- **Risk Model Innovation**: Developing next-generation risk measurement frameworks
-- **Open Source**: Contributing to quantitative finance and risk management libraries
-- **Research**: Advancing topological approaches in financial risk assessment
-- **Industry Collaboration**: Bridging academic research with practical implementation
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=tokyonight&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIM-IT4&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📞 Professional Contact
+### 📫 Connect with Me
 
-- **LinkedIn**: [Connect for professional discussions](https://linkedin.com/in/Akjha002)
-- **Research**: [Follow on Medium](https://medium.com/@Akjha22) for insights on quantitative finance
-- **Collaboration**: Open to partnerships in quantitative finance and risk modeling
-
----
-
-<div align="center">
-
-**"Quantifying uncertainty to enable informed financial decisions"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AIM-IT4&style=flat&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/AIM-IT4?style=flat&logo=github)](https://github.com/AIM-IT4)
-
-</div>
+* 💼 **LinkedIn**: [linkedin.com/in/akjha002](https://www.linkedin.com/in/akjha002)
+* 📧 **Email**: [jha.8@alumni.iitj.ac.in](mailto:jha.8@alumni.iitj.ac.in)
+* 🐙 **GitHub Profile**: [github.com/AIM-IT4](https://github.com/AIM-IT4)
 
 ---
-
-*Last updated: ![Dynamic Date](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAIM-IT4%2FAIM-IT4%2Fcommits%2Fmain&logo=github&style=flat)*
+*“In mathematics you don't understand things. You just get used to them.” — John von Neumann*
