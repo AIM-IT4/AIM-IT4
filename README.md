@@ -86,6 +86,16 @@ A quantitative-finance education and mentorship platform with interactive resour
 | Data and engineering | NumPy, SciPy, Pandas, PySpark, Databricks, QuantLib, PyTorch and Numba |
 | Research | market microstructure, stochastic processes, numerical analysis and computational economics |
 
+## 📊 GitHub activity and contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIM-IT4&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIM-IT4&theme=tokyonight&hide_border=true)
+
+These visual summaries show public GitHub activity. They complement, but do not replace, the externally verifiable contribution evidence listed above.
+
 ## 🎓 Community and education
 
 I created [Desk2Quant](https://desk2quant.vercel.app) and provide quantitative-finance mentorship through [Topmate](https://topmate.io/amit_kumar_jha). This commercial and educational work is separate from the open-source maintenance evidence listed above.
