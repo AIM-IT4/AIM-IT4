@@ -1,4 +1,4 @@
-# Amit Kumar Jha
+# Hi, I'm Amit Kumar Jha 👋
 
 [![CRAN package](https://img.shields.io/badge/CRAN-CustomDerivative-276DC3?style=flat-square&logo=r)](https://cran.r-project.org/package=CustomDerivative)
 [![External pull requests](https://img.shields.io/badge/GitHub-External%20Pull%20Requests-a855f7?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4+-user%3AAIM-IT4)
@@ -10,7 +10,7 @@
 
 My work sits at the intersection of derivatives pricing, counterparty credit risk, numerical methods, market microstructure and scientific computing. I primarily use Python, C++, R and kdb+/Q.
 
-## Open-source impact
+## 📦 Open-source impact
 
 ### QuantLib contributions
 
@@ -40,7 +40,7 @@ These contributions include production C++ changes, regression tests, documentat
 
 The package currently assumes a single underlying following risk-neutral geometric Brownian motion with constant parameters. Early exercise, stochastic volatility, jump diffusion and multi-asset correlation are outside the released model scope.
 
-## Selected projects
+## 🚀 Selected projects
 
 ### [Advanced XVA Framework](https://github.com/AIM-IT4/Advanced-XVA-Framework)
 
@@ -62,7 +62,7 @@ Educational notebooks covering derivative-pricing models, lattice methods, finit
 
 A quantitative-finance education and mentorship platform with interactive resources, booking workflows and digital products.
 
-## Research
+## 🔬 Research
 
 | Work | Area | Link |
 |---|---|---|
@@ -70,14 +70,14 @@ A quantitative-finance education and mentorship platform with interactive resour
 | A Sinusoidal Hull-White Model for Interest Rate Dynamics | Interest-rate modelling | [arXiv:2506.06317](https://arxiv.org/abs/2506.06317) |
 | Digitization Impact on Indian Banking Assets, 2009–2019 | Banking econometrics | [SSRN 4164875](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4164875) |
 
-## Professional background
+## 🏦 Professional background
 
 - **UBS, Mumbai:** quantitative risk modelling across counterparty credit risk, exposure measures, securities-financing transactions, Repo VaR and risk-factor backtesting.
 - **Reserve Bank of India:** research on market microstructure and large-scale tick data.
 - **IIT Jodhpur:** M.Sc. in Digital Humanities, focused on computational economics and quantitative finance.
 - **Jamia Millia Islamia:** B.Sc. (Hons.) in Physics.
 
-## Technical focus
+## 🛠️ Technical focus
 
 | Area | Tools and methods |
 |---|---|
@@ -86,11 +86,11 @@ A quantitative-finance education and mentorship platform with interactive resour
 | Data and engineering | NumPy, SciPy, Pandas, PySpark, Databricks, QuantLib, PyTorch and Numba |
 | Research | market microstructure, stochastic processes, numerical analysis and computational economics |
 
-## Community and education
+## 🎓 Community and education
 
 I created [Desk2Quant](https://desk2quant.vercel.app) and provide quantitative-finance mentorship through [Topmate](https://topmate.io/amit_kumar_jha). This commercial and educational work is separate from the open-source maintenance evidence listed above.
 
-## Contact
+## 📫 Contact
 
 - [GitHub](https://github.com/AIM-IT4)
 - [LinkedIn](https://www.linkedin.com/in/akjha002)
