@@ -1,108 +1,101 @@
-# Hi, I'm Amit Kumar Jha 👋
+# Hi there, I'm Amit Kumar Jha 👋
 
-[![CRAN package](https://img.shields.io/badge/CRAN-CustomDerivative-276DC3?style=flat-square&logo=r)](https://cran.r-project.org/package=CustomDerivative)
-[![External pull requests](https://img.shields.io/badge/GitHub-External%20Pull%20Requests-a855f7?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4+-user%3AAIM-IT4)
-[![Desk2Quant](https://img.shields.io/badge/Platform-Desk2Quant-00F2FE?style=flat-square&logo=vercel&logoColor=black)](https://desk2quant.vercel.app)
+[![Desk2Quant Platform](https://img.shields.io/badge/Founder-Desk2Quant-00F2FE?style=flat-square&logo=vercel&logoColor=black)](https://desk2quant.vercel.app)
+[![Topmate Mentor](https://img.shields.io/badge/Topmate-Top_1%25_Creator_--_1460%2B_Bookings-FF5722?style=flat-square&logo=google-chat&logoColor=white)](https://topmate.io/amit_kumar_jha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akjha002-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akjha002)
-[![arXiv](https://img.shields.io/badge/arXiv-Research-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.03123)
+[![Email](https://img.shields.io/badge/Email-jha.8%40alumni.iitj.ac.in-D14836?style=flat-square&logo=gmail)](mailto:jha.8@alumni.iitj.ac.in)
+[![arXiv](https://img.shields.io/badge/arXiv-Author_Page-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.03123)
+[![CRAN](https://img.shields.io/badge/CRAN-CustomDerivative-276DC3?style=flat-square&logo=r)](https://www.rdocumentation.org/packages/CustomDerivative/versions/0.1.1)
 
-> Quantitative risk modeller at UBS, former Reserve Bank of India research analyst, CRAN package maintainer and contributor to QuantLib.
+[![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active_Contributor-a855f7?style=flat-square&logo=git-pull-request)](https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4)
+[![GitHub Followers](https://img.shields.io/github/followers/AIM-IT4?style=flat-square&logo=github&color=2bbc8a&label=GitHub%20Followers)](https://github.com/AIM-IT4?tab=followers)
+[![XVA Engine Stars](https://img.shields.io/github/stars/AIM-IT4/Advanced-XVA-Framework?style=flat-square&logo=github&color=eac54f&label=XVA%20Engine%20Stars)](https://github.com/AIM-IT4/Advanced-XVA-Framework)
 
-My work sits at the intersection of derivatives pricing, counterparty credit risk, numerical methods, market microstructure and scientific computing. I primarily use Python, C++, R and kdb+/Q.
+> **Quantitative Analyst (Authorized Officer) @ UBS** | **Ex-Reserve Bank of India** | **Founder @ [Desk2Quant](https://desk2quant.vercel.app)**  
+> *Front-Office XVA & Risk Quant • Top 1% Topmate Creator (1,460+ Sessions) • Derivatives Pricing • Stochastic Calculus • Deep BSDEs*
 
-## 📦 Open-source impact
+---
 
-### QuantLib contributions
+### 👨‍💻 About Me
 
-I contribute fixes and tests to [QuantLib](https://github.com/lballabio/QuantLib), a widely used open-source quantitative-finance library. Recent merged work includes:
+* 🚀 **Founder @ [Desk2Quant](https://desk2quant.vercel.app)**: Building the premier interactive Quantitative Finance platform — democratizing derivatives pricing, stochastic calculus labs, and front-office quant interview preparation.
+* 🏆 **Top 1% Topmate Mentor (1,460+ Sessions)**: Completed over **1,460+ 1-on-1 mentorship & consulting bookings** on [Topmate](https://topmate.io/amit_kumar_jha) (*People's Choice Award & Community Care Badge holder*), guiding software engineers, physicists, and quants worldwide.
+* 🏦 **Quant @ UBS (Mumbai)**: 3+ years optimizing counterparty credit risk (CCR) models, exposure profiling (PFE/EPE/EE), Repo VaR IMA regulatory frameworks, and risk factor backtesting across Equities, FX, Rates, and Credit.
+* 🏛️ **Ex-Research Analyst @ Reserve Bank of India**: Modeled market microstructure inefficiencies on **3 TB+ tick data** for central bank policy research and intraday signal analysis.
+* 🎓 **Academic Excellence**: M.Sc. in Digital Humanities (*Computational Economics & Quantitative Finance Track*) from **IIT Jodhpur** (CGPA 8.8/10, GATE AIR 180) & B.Sc. (Hons.) in Physics from **Jamia Millia Islamia** (CGPA 8.5/10, IIT JAM AIR 1160).
+* 🔬 **Published Researcher**: Author of preprints on market microstructure via stochastic thermodynamics ([arXiv:2512.03123](https://arxiv.org/abs/2512.03123)), short-rate dynamics ([arXiv:2506.06317](https://arxiv.org/abs/2506.06317)), and SSRN banking econometrics.
+* 🛠️ **Engineering & Tooling**: Production Python, C++, kdb+/Q, R (CRAN Package Author), Databricks/Spark processing 1B+ rows, and AST/LLM Developer Productivity agents.
 
-- [Use dirty price in `CallableBond` effective duration and convexity](https://github.com/lballabio/QuantLib/pull/2671)
-- [Add explanatory documentation to default-probability calculations](https://github.com/lballabio/QuantLib/pull/2670)
-- [Clarify expected tranche-loss units](https://github.com/lballabio/QuantLib/pull/2672)
-- [Prevent zero-BPS division in `FloatFloatSwap` fair-spread calculations](https://github.com/lballabio/QuantLib/pull/2678)
-- [Add the 2026 South Korean Chuseok substitute holiday](https://github.com/lballabio/QuantLib/pull/2680)
+---
 
-These contributions include production C++ changes, regression tests, documentation corrections and responses to upstream maintainer review.
+### 🚀 Featured Platforms & Novel Quant Projects
 
-### CustomDerivative
+#### ⚡ [Thermodynamic-BSDE-XVA-Engine](https://github.com/AIM-IT4/Thermodynamic_BSDE_XVA_Engine) *(New Novel Project)*
+* **Tech:** Python, PyTorch, SciPy, NumPy, Matplotlib
+* **Mathematical Novelty:** Solves high-dimensional nonlinear Backward Stochastic Differential Equations (BSDEs) for **CVA, DVA, FVA, MVA, KVA** under collateralized netting. Integrates **stochastic thermodynamics entropy production** to verify no-arbitrage bounds and performs **KL-divergence optimal transport volatility surface repair**.
 
-[`CustomDerivative`](https://github.com/AIM-IT4/CustomDerivative) is an R package published on CRAN for transparent derivative-pricing and risk-analysis examples. Its current implemented scope includes:
+#### 🌐 [Desk2Quant — Quantitative Finance & Mentorship Platform](https://desk2quant.vercel.app) *(Founder & Architect)*
+* **Live App:** [desk2quant.vercel.app](https://desk2quant.vercel.app) | **Mentorship:** [topmate.io/amit_kumar_jha](https://topmate.io/amit_kumar_jha)
+* **Impact:** 1,460+ mentorship bookings • Interactive Quant Labs • Derivatives Pricing
+* Next-gen interactive platform empowering engineers and quants to master options Greeks, stochastic calculus labs, XVA valuation engines, and high-frequency market microstructure.
 
-- Black-Scholes-Merton pricing for European calls and puts
-- continuous dividend yields
-- extensible terminal-payoff functions
-- Monte Carlo pricing with antithetic and control variates
-- standard errors and confidence intervals
-- geometric Brownian motion path simulation
-- Asian and discretely monitored barrier payoff helpers
-- finite-difference Greeks
-- reproducible simulation, validation and cross-platform package checks
+#### 📊 [Advanced-XVA-Framework](https://github.com/AIM-IT4/Advanced-XVA-Framework)
+* **Tech:** Python, QuantLib, NumPy, SciPy
+* Comprehensive valuation engine for CVA, DVA, FVA, MVA, KVA, XVA Sensitivity Greeks, and Wrong-Way Risk (WWR) under Monte Carlo simulation. Includes collateralized exposure profiling and netting set dynamics.
 
-The package currently assumes a single underlying following risk-neutral geometric Brownian motion with constant parameters. Early exercise, stochastic volatility, jump diffusion and multi-asset correlation are outside the released model scope.
+#### 📦 [CustomDerivative](https://github.com/AIM-IT4/CustomDerivative) *(CRAN Package)*
+* **Tech:** R, CRAN, C++
+* Production-grade R package on **CRAN** for pricing exotic derivatives. Implements 15+ numerical methods, Monte Carlo path generation, and finite-difference PDE schemes.
 
-## 🚀 Selected projects
+#### ⚡ [KDB Market Microstructure Study](https://github.com/AIM-IT4/KDB-Market-Microstructure-Study---Billion-Quote-Analysis)
+* **Tech:** Q/kdb+, Tick Architecture
+* Ultra-low-latency tick data engine analyzing **10M+ quotes/trades**. Calculates intraday bid-ask spread dynamics, market maker inventory risk, and high-frequency order flow imbalance.
 
-### [Advanced XVA Framework](https://github.com/AIM-IT4/Advanced-XVA-Framework)
+---
 
-Python framework exploring CVA, DVA, FVA, MVA, KVA, collateralised exposure, wrong-way risk and netting-set dynamics. It is a research and educational implementation, not a production valuation system.
+### 🔬 Publications & Working Papers
 
-### [Thermodynamic BSDE XVA Engine](https://github.com/AIM-IT4/Thermodynamic_BSDE_XVA_Engine)
+| Title | Track / Venue | Abstract / Link |
+| :--- | :--- | :--- |
+| **A Stochastic Thermodynamics Approach to Price Impact and Arbitrage** | Market Microstructure | [arXiv:2512.03123](https://arxiv.org/abs/2512.03123) — *Physics-based framework for market microstructure using entropy production and fluctuation theorems.* |
+| **A Sinusoidal Hull-White Model for Interest Rate Dynamics** | Interest Rate Modeling | [arXiv:2506.06317](https://arxiv.org/abs/2506.06317) — *Extended Hull-White model with sinusoidal mean-reversion, calibrated to 30 years of US Treasury data.* |
+| **Digitization Impact on Indian Banking Assets (2009-19)** | Computational Econometrics | [SSRN: 4164875](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4164875) — *Fixed-effects panel regression & Lerner index estimation on 90% of Indian banking assets.* |
 
-Experimental research code combining nonlinear backward stochastic differential equations with ideas from stochastic thermodynamics and volatility-surface repair.
+---
 
-### [KDB Market Microstructure Study](https://github.com/AIM-IT4/KDB-Market-Microstructure-Study---Billion-Quote-Analysis)
+### 🛠️ Technical Stack & Domain Expertise
 
-kdb+/Q research implementation for high-frequency quote and trade analysis, including spreads, order-flow imbalance and inventory-risk diagnostics.
+```
+┌──────────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Category                     │ Tools & Frameworks                                          │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Quantitative Finance         │ CVA/DVA/FVA/MVA/KVA, PFE/EPE/EE, SA-CCR, Repo VaR IMA,       │
+│                              │ ISDA SIMM, Wrong-Way Risk, Monte Carlo, Deep BSDEs, PDEs    │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Programming Languages        │ Python, C++, R, kdb+/Q, SQL, LaTeX, Bash                    │
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Mentorship & Mentorship Stack│ Topmate (Top 1% Creator, 1,460+ Sessions), Desk2Quant Platform│
+├──────────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Libraries & Engines          │ PyTorch, QuantLib, PySpark, NumPy, SciPy, Pandas, Numba     │
+└──────────────────────────────┴─────────────────────────────────────────────────────────────┘
+```
 
-### [Quantitative Derivative Models](https://github.com/AIM-IT4/QuantitativeDerivativeModels)
+---
 
-Educational notebooks covering derivative-pricing models, lattice methods, finite differences, credit models and stochastic-process examples.
+### 📊 GitHub Activity & Contributions
 
-### [Desk2Quant](https://desk2quant.vercel.app)
-
-A quantitative-finance education and mentorship platform with interactive resources, booking workflows and digital products.
-
-## 🔬 Research
-
-| Work | Area | Link |
-|---|---|---|
-| A Stochastic Thermodynamics Approach to Price Impact and Arbitrage | Market microstructure | [arXiv:2512.03123](https://arxiv.org/abs/2512.03123) |
-| A Sinusoidal Hull-White Model for Interest Rate Dynamics | Interest-rate modelling | [arXiv:2506.06317](https://arxiv.org/abs/2506.06317) |
-| Digitization Impact on Indian Banking Assets, 2009–2019 | Banking econometrics | [SSRN 4164875](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4164875) |
-
-## 🏦 Professional background
-
-- **UBS, Mumbai:** quantitative risk modelling across counterparty credit risk, exposure measures, securities-financing transactions, Repo VaR and risk-factor backtesting.
-- **Reserve Bank of India:** research on market microstructure and large-scale tick data.
-- **IIT Jodhpur:** M.Sc. in Digital Humanities, focused on computational economics and quantitative finance.
-- **Jamia Millia Islamia:** B.Sc. (Hons.) in Physics.
-
-## 🛠️ Technical focus
-
-| Area | Tools and methods |
-|---|---|
-| Quantitative finance | XVA, PFE/EPE/EE, derivatives pricing, stochastic calculus, Monte Carlo, PDEs, interest-rate and credit models |
-| Programming | Python, C++, R, kdb+/Q, SQL, Bash and LaTeX |
-| Data and engineering | NumPy, SciPy, Pandas, PySpark, Databricks, QuantLib, PyTorch and Numba |
-| Research | market microstructure, stochastic processes, numerical analysis and computational economics |
-
-## 📊 GitHub activity and contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIM-IT4&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIM-IT4&theme=tokyonight&hide_border=true)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIM-IT4&theme=tokyonight&hide_border=true)
 
-These visual summaries show public GitHub activity. They complement, but do not replace, the externally verifiable contribution evidence listed above.
+---
 
-## 🎓 Community and education
+### 📫 Connect & Mentorship
 
-I created [Desk2Quant](https://desk2quant.vercel.app) and provide quantitative-finance mentorship through [Topmate](https://topmate.io/amit_kumar_jha). This commercial and educational work is separate from the open-source maintenance evidence listed above.
+* 🎯 **1-on-1 Mentorship**: [topmate.io/amit_kumar_jha](https://topmate.io/amit_kumar_jha) *(Book a session for Quant Finance, Career Transition & Resume Reviews)*
+* 🌐 **Quant Platform**: [desk2quant.vercel.app](https://desk2quant.vercel.app)
+* 💼 **LinkedIn**: [linkedin.com/in/akjha002](https://www.linkedin.com/in/akjha002)
+* 📧 **Email**: [jha.8@alumni.iitj.ac.in](mailto:jha.8@alumni.iitj.ac.in)
+* 🐙 **GitHub Profile**: [github.com/AIM-IT4](https://github.com/AIM-IT4)
 
-## 📫 Contact
-
-- [GitHub](https://github.com/AIM-IT4)
-- [LinkedIn](https://www.linkedin.com/in/akjha002)
-- [Email](mailto:jha.8@alumni.iitj.ac.in)
-- [Desk2Quant](https://desk2quant.vercel.app)
+---
+*“In mathematics you don't understand things. You just get used to them.” — John von Neumann*
