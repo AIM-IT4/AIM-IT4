@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Kumar Jha 👋
 
-[![Desk2Quant Platform](https://img.shields.io/badge/Founder-Desk2Quant-00F2FE?style=flat-square&logo=vercel&logoColor=black)](https://desk2quant.vercel.app)
+[![Desk2Quant Platform](https://img.shields.io/badge/Founder-Desk2Quant-00F2FE?style=flat-square&logo=vercel&logoColor=black)](https://desk2quant.com)
 [![Topmate Mentor](https://img.shields.io/badge/Topmate-Top_1%25_Creator_--_1460%2B_Bookings-FF5722?style=flat-square&logo=google-chat&logoColor=white)](https://topmate.io/amit_kumar_jha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akjha002-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akjha002)
 [![Email](https://img.shields.io/badge/Email-jha.8%40alumni.iitj.ac.in-D14836?style=flat-square&logo=gmail)](mailto:jha.8@alumni.iitj.ac.in)
@@ -11,14 +11,14 @@
 [![GitHub Followers](https://img.shields.io/github/followers/AIM-IT4?style=flat-square&logo=github&color=2bbc8a&label=GitHub%20Followers)](https://github.com/AIM-IT4?tab=followers)
 [![XVA Engine Stars](https://img.shields.io/github/stars/AIM-IT4/Advanced-XVA-Framework?style=flat-square&logo=github&color=eac54f&label=XVA%20Engine%20Stars)](https://github.com/AIM-IT4/Advanced-XVA-Framework)
 
-> **Quantitative Analyst (Authorized Officer) @ UBS** | **Ex-Reserve Bank of India** | **Founder @ [Desk2Quant](https://desk2quant.vercel.app)**  
+> **Quantitative Analyst (Authorized Officer) @ UBS** | **Ex-Reserve Bank of India** | **Founder @ [Desk2Quant](https://desk2quant.com)**  
 > *Front-Office XVA & Risk Quant • Top 1% Topmate Creator (1,460+ Sessions) • Derivatives Pricing • Stochastic Calculus • Deep BSDEs*
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🚀 **Founder @ [Desk2Quant](https://desk2quant.vercel.app)**: Building the premier interactive Quantitative Finance platform — democratizing derivatives pricing, stochastic calculus labs, and front-office quant interview preparation.
+* 🚀 **Founder @ [Desk2Quant](https://desk2quant.com)**: Building the premier interactive Quantitative Finance platform — democratizing derivatives pricing, stochastic calculus labs, and front-office quant interview preparation.
 * 🏆 **Top 1% Topmate Mentor (1,460+ Sessions)**: Completed over **1,460+ 1-on-1 mentorship & consulting bookings** on [Topmate](https://topmate.io/amit_kumar_jha) (*People's Choice Award & Community Care Badge holder*), guiding software engineers, physicists, and quants worldwide.
 * 🏦 **Quant @ UBS (Mumbai)**: 3+ years optimizing counterparty credit risk (CCR) models, exposure profiling (PFE/EPE/EE), Repo VaR IMA regulatory frameworks, and risk factor backtesting across Equities, FX, Rates, and Credit.
 * 🏛️ **Ex-Research Analyst @ Reserve Bank of India**: Modeled market microstructure inefficiencies on **3 TB+ tick data** for central bank policy research and intraday signal analysis.
