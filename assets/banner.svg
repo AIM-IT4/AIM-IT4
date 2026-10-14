@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Amit Kumar Jha · Quant @ UBS · Founder @ Desk2Quant">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#101935"/>
+      <stop offset="1" stop-color="#0a2a3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f2fe"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b1020" stop-opacity="1"/>
+      <stop offset="0.45" stop-color="#0b1020" stop-opacity="0.85"/>
+      <stop offset="0.75" stop-color="#0b1020" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <style>
+      .path { fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+              stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 6s ease-out infinite; }
+      .p2 { animation-delay: 0.8s; }
+      .p3 { animation-delay: 1.6s; }
+      @keyframes draw { 0% { stroke-dashoffset: 1400; } 55%, 85% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: -1400; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      text { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <!-- simulated price paths drawn on the right -->
+  <g transform="translate(560 40)">
+    <path class="path" stroke="#00f2fe" stroke-opacity="0.9"
+      d="M0 150 L30 140 L60 152 L90 128 L120 134 L150 110 L180 122 L210 96 L240 104 L270 84 L300 98 L330 70 L360 82 L390 58 L420 66 L450 44 L480 56 L510 30 L540 40 L570 22 L600 30"/>
+    <path class="path p2" stroke="#a855f7" stroke-opacity="0.85"
+      d="M0 150 L30 158 L60 146 L90 166 L120 160 L150 178 L180 168 L210 186 L240 174 L270 192 L300 182 L330 168 L360 176 L390 156 L420 162 L450 148 L480 158 L510 140 L540 150 L570 136 L600 142"/>
+    <path class="path p3" stroke="#eac54f" stroke-opacity="0.75"
+      d="M0 150 L30 146 L60 154 L90 144 L120 150 L150 138 L180 146 L210 132 L240 140 L270 126 L300 132 L330 120 L360 128 L390 116 L420 120 L450 110 L480 116 L510 104 L540 110 L570 98 L600 104"/>
+    <line x1="0" y1="150" x2="600" y2="150" stroke="#ffffff" stroke-opacity="0.12" stroke-dasharray="4 6"/>
+    <circle cx="0" cy="150" r="4" fill="#ffffff" class="pulse"/>
+  </g>
+  <rect width="1200" height="300" rx="18" fill="url(#fade)"/>
+
+  <!-- identity -->
+  <text x="60" y="92" class="mono" font-size="15" fill="#00f2fe" letter-spacing="2">dS = μS dt + σS dW</text>
+  <text x="58" y="148" font-size="50" font-weight="800" fill="#ffffff">Amit Kumar Jha</text>
+  <rect x="60" y="166" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="60" y="206" font-size="21" font-weight="600" fill="#e2e8f0">Quant @ UBS · Founder @ Desk2Quant</text>
+  <text x="60" y="240" font-size="16" fill="#94a3b8">XVA &amp; Counterparty Risk · Derivatives Pricing · Open-Source Quant Finance</text>
+
+  <g transform="translate(1040 254)">
+    <circle cx="0" cy="0" r="5" fill="#2bbc8a" class="pulse"/>
+    <text x="14" y="5" class="mono" font-size="13" fill="#94a3b8">building</text>
+  </g>
+</svg>
