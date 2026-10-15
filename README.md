@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4+repo%3Alballabio%2FQuantLib+is%3Amerged"><img src="https://img.shields.io/badge/QuantLib-7_PRs_merged-a855f7?style=flat-square&logo=cplusplus&logoColor=white" alt="QuantLib merged PRs"/></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4+repo%3Adomokane%2FFinancePy+is%3Amerged"><img src="https://img.shields.io/badge/FinancePy-3_PRs_merged-a855f7?style=flat-square&logo=python&logoColor=white" alt="FinancePy merged PRs"/></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AAIM-IT4+repo%3Adomokane%2FFinancePy+is%3Amerged"><img src="https://img.shields.io/badge/FinancePy-6_PRs_merged-a855f7?style=flat-square&logo=python&logoColor=white" alt="FinancePy merged PRs"/></a>
   <a href="https://cran.r-project.org/package=CustomDerivative"><img src="https://img.shields.io/badge/CRAN-CustomDerivative-276DC3?style=flat-square&logo=r&logoColor=white" alt="CRAN"/></a>
   <a href="https://arxiv.org/abs/2512.03123"><img src="https://img.shields.io/badge/arXiv-2_preprints-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/></a>
   <a href="https://github.com/AIM-IT4?tab=followers"><img src="https://img.shields.io/github/followers/AIM-IT4?style=flat-square&logo=github&color=2bbc8a&label=Followers" alt="Followers"/></a>
@@ -52,7 +52,7 @@ I fix pricing bugs and add regression tests in the libraries quants use every da
 | Library | Merged | Highlights |
 | :-- | :--: | :-- |
 | [**QuantLib**](https://github.com/lballabio/QuantLib) · C++ | **7** | [Dirty price in `CallableBond` duration & convexity](https://github.com/lballabio/QuantLib/pull/2671) · [Multiple-resets swap schedules & helper pillar](https://github.com/lballabio/QuantLib/pull/2833) · [Overnight-future accrual at holiday maturity](https://github.com/lballabio/QuantLib/pull/2726) · [Zero-BPS guard in `FloatFloatSwap`](https://github.com/lballabio/QuantLib/pull/2678) |
-| [**FinancePy**](https://github.com/domokane/FinancePy) · Python | **3** | [Lookback reflection term at high carry/vol](https://github.com/domokane/FinancePy/pull/393) · [Discounting in Black-model American options](https://github.com/domokane/FinancePy/pull/394) · [Caplet expiries from the valuation date](https://github.com/domokane/FinancePy/pull/395) |
+| [**FinancePy**](https://github.com/domokane/FinancePy) · Python | **6** | [Lookback reflection term](https://github.com/domokane/FinancePy/pull/393) · [Black-model American option discounting](https://github.com/domokane/FinancePy/pull/394) · [Caplet expiry timing](https://github.com/domokane/FinancePy/pull/395) · [Intraday tenor preservation](https://github.com/domokane/FinancePy/pull/396) · [Black-76 FX option valuation](https://github.com/domokane/FinancePy/pull/397) · [Randomized Sobol QMC for Asian options](https://github.com/domokane/FinancePy/pull/398) |
 
 ---
 
